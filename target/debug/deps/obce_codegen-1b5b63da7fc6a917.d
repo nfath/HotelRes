@@ -1,0 +1,13 @@
+/media/nader/3AAE13B7AE136B21/code/HotelRes/target/debug/deps/obce_codegen-1b5b63da7fc6a917.rmeta: /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs
+
+/media/nader/3AAE13B7AE136B21/code/HotelRes/target/debug/deps/libobce_codegen-1b5b63da7fc6a917.rlib: /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs
+
+/media/nader/3AAE13B7AE136B21/code/HotelRes/target/debug/deps/obce_codegen-1b5b63da7fc6a917.d: /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs /home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs
+
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs:
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs:
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs:
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs:
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs:
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs:
+/home/nader/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs:

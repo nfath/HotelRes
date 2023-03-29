@@ -1,0 +1,11 @@
+/media/nader/3AAE13B7AE136B21/code/HotelRes/target/ink/release/deps/ink_metadata-3a8f31ffd528f85b.rmeta: /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/media/nader/3AAE13B7AE136B21/code/HotelRes/target/ink/release/deps/libink_metadata-3a8f31ffd528f85b.rlib: /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/media/nader/3AAE13B7AE136B21/code/HotelRes/target/ink/release/deps/ink_metadata-3a8f31ffd528f85b.d: /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs:
+/home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs:
+/home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs:
+/home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs:
+/home/nader/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs:
